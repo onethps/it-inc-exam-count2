@@ -1,0 +1,95 @@
+body {
+    background-color: #282c34;
+}
+
+.mainBox {
+    width: 350px;
+    margin: 10%;
+
+}
+
+.row {
+    width: auto;
+    border: 3px solid #61dafb;
+    border-radius: 10px;
+
+}
+
+
+
+.staticNumber {
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    padding: 20px;
+    background-color: #61dafb;
+    margin: 10px;
+    border-radius: 10px;
+
+}
+
+.styleLastNumber {
+    color: red;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    padding: 20px;
+    background-color: #61dafb;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.defaultStyleText {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-weight: bold;
+    margin: 10px;
+    background-color: #61dafb;
+    border-radius: 10px;
+    height: 100px;
+}
+
+.styleTextErrors {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-weight: bold;
+    margin: 10px;
+    background-color: #61dafb;
+    border-radius: 10px;
+    height: 100px;
+    color: red;
+}
+
+.buttonBlock {
+    display: flex;
+    justify-content: center;
+    border: 3px solid #61dafb;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.btnInc {
+    padding: 3px 10px;
+    border-radius: 10px;
+    margin: 10px;
+    border: none;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+    background-color: #61dafb;
+}
+
+.btnReset {
+    padding: 3px 10px;
+    border-radius: 10px;
+    margin: 10px;
+    border: none;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+    background-color: #61dafb;
+}
