@@ -9,13 +9,6 @@ function App() {
 
 
   const [scount, ssetCount] = useState<number>(0);
-  const [ff, asdfasd] = useState<number>(0);
-  const [fdf, xczsa] = useState<number>(0);
-
-  //here is new comme
-
-  //da dwdwdw
-
 
   const [startNumber, setStartNumber] = useState<number>(0)
   const [lastNumber, setLastNumber] = useState<number>(0)
