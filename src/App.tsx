@@ -6,9 +6,8 @@ import SettingPage from "./SettingPage";
 function App() {
 
   const [count, setCount] = useState<number>(0);
-
-
-  const [scount, ssetCount] = useState<number>(0);
+  const [codnt, se2tCount] = useState<number>(0);
+  const [cosunt, set2Count] = useState<number>(0);
 
 
   const [startNumber, setStartNumber] = useState<number>(0)
