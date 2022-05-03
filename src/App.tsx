@@ -12,7 +12,7 @@ function App() {
   const [ff, asdfasd] = useState<number>(0);
   const [fdf, xczsa] = useState<number>(0);
 
-  //here is new commebtrvcvcd
+  //here is new comme
 
 
   const [startNumber, setStartNumber] = useState<number>(0)
