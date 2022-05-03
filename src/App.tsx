@@ -11,7 +11,7 @@ function App() {
   const [scount, ssetCount] = useState<number>(0);
   const [fdf, xczsa] = useState<number>(0);
 
-
+//nene bratit, eto moya stroka
   const [startNumber, setStartNumber] = useState<number>(0)
   const [lastNumber, setLastNumber] = useState<number>(0)
 
