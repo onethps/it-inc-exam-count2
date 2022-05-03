@@ -11,7 +11,7 @@ function App() {
   const [scount, ssetCount] = useState<number>(0);
   const [fdf, xczsa] = useState<number>(0);
 
-  //here is new commebtr
+  //here is new commebtrvcvcd
 
 
   const [startNumber, setStartNumber] = useState<number>(0)
