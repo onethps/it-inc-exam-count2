@@ -10,7 +10,7 @@ function App() {
   const [sds, setwqeCount] = useState<number>(0);
 
 
-  //97777777
+  //977
 
   const [startNumber, setStartNumber] = useState<number>(0)
   const [lastNumber, setLastNumber] = useState<number>(0)
