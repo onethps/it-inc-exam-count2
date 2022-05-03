@@ -7,7 +7,6 @@ function App() {
 
   const [count, setCount] = useState<number>(0);
 
-  const [sds, setwqeCount] = useState<number>(0);
 
   const [startNumber, setStartNumber] = useState<number>(0)
   const [lastNumber, setLastNumber] = useState<number>(0)
